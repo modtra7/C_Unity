@@ -352,8 +352,10 @@
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.2f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/HelloWorld.cs"
 "Assets/Scripts/MadLibs.cs"
+"Assets/Scripts/MyOperators.cs"
 "Assets/Scripts/MyType.cs"
 "Assets/Scripts/MyVariables.cs"
+"Assets/Scripts/Tip Calculator.cs"
 -langversion:9.0
 
 /deterministic
